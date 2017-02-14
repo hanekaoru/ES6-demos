@@ -102,7 +102,7 @@
 
 #### 武汉市"负面清单"管理平台（2016.5 ~ 2016.8）
 
-项目地址：（PC）http://wenming.jiupaicn.com/ / （移动端）http://wenming.jiupaicn.com/wwz/index.html 
+项目地址：（PC）http://wenming.jiupaicn.com  / （移动端）http://wenming.jiupaicn.com/wwz/index.html 
 
 市文明办合作项目，是一个为市民发布曝光信息及各单位处理曝光的新媒体平台，基于 ECharts 配合大数据动态展示，参与完成了此项目的基础架构设计和第一个版本的实现
 
