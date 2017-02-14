@@ -137,5 +137,3 @@
 项目地址：[http://hanekaoru.com/demo/project/prettyPhoto/index.html](http://hanekaoru.com/demo/project/prettyPhoto/index.html)
 
 心血来潮模仿之作，利用 jQuery 的 prettyPhoto 和 slider 插件搭建的动画轮播图（图片都是几M的大图，载入需要一点时间）
-
-#### 更多练手作品可见左侧 demo 列表
