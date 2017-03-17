@@ -63,7 +63,7 @@
 
 #### 九派号 app（2017.02 - 2017.03）
 
-项目地址：[app 相关](http://www.jiupaicn.com/)
+项目地址：（app版本）[http://www.jiupaicn.com/](http://www.jiupaicn.com/)
 
 协助原生 app 开发内部的 WebView 页面，包括文章/视频详情板块，入驻/报名相关，文章发布等页面，发布功能在之前做过的相关功能上封装优化，重写了裁剪上传间的逻辑，添加了单图/多图相关切换功能
 
