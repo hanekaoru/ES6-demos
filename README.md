@@ -61,7 +61,7 @@
 ## 参与项目
 
 
-#### 九派号 app 内嵌 WebView 页面（2017.02 - 2017.03）
+#### 九派号 app（2017.02 - 2017.03）
 
 项目地址：[暂无](javascript:;)
 
@@ -85,7 +85,7 @@
 
 
 
-#### 钱塘大数据 app 内嵌 WebView 页面（2016.12 ~ 2017.01）
+#### 钱塘大数据 app（2016.12 ~ 2017.01）
 
 项目地址：（app版本）[http://www.qtbigdata.com/](http://www.qtbigdata.com/)
 
@@ -184,4 +184,5 @@
 
 
 
-#### 更多练手作品可见左侧 demo 列表
+#### 更多练手作品可见：[Demo列表](http://hanekaoru.com/about/)
+
